@@ -2,6 +2,7 @@
 <h3 align="center">An Enthusiastic Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohan-pandeyy&label=Profile%20views&color=d4b3df&style=flat-square" alt="rohan-pandeyy" /> </p>
+<img align = "right" alt = coding height = "460px" src="https://image.lexica.art/full_jpg/03fd6ca2-02d8-40fd-bc57-0fbeb42a4e63">
 
 - 🔭 I’m currently working on **Autonomous Robocar using dependencies such as OpenCV**
 - 🌱 I’m currently learning **ReactJS**.
