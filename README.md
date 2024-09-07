@@ -17,7 +17,7 @@
 > - I love to learn in public. [Check it out](https://twitter.com/aboongalakaka)
 
 ### 🌐About Me
-I craft digital experiences with HTML, CSS and bring them to life with Vanilla Javascript. Additionally, I love building AI powered machines and robots that help ease out daily lives. Beyond code, I thrive in the tech community, sharing knowledge and innovating together. Play guitar, drums, and piano. If this sparks your interest, let's connect and explore how we can create something amazing together!
+I craft digital experiences with ReactJS and bring them to life with Bootstrap, Tailwind & NodeJS. Additionally, I love building AI powered machines and robots that help ease out daily lives. Beyond code, I thrive in the tech community, sharing knowledge and innovating together. Play guitar, drums, and piano. If this sparks your interest, let's connect and explore how we can create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-pandey-a9a50b270/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aboongalakaka)
 
