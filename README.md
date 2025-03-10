@@ -4,10 +4,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohan-pandeyy&label=Profile%20views&color=d4b3df&style=flat-square" alt="rohan-pandeyy" /> </p>
 <img align = "right" alt = coding height = "330px" width = "360px" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-- 🔭 I’m currently working on **Enhancing Rail Services by Fine-Tuning Llama 3.1**
-- 🌱 I’m currently learning **ReactJS**.
-- 👯 I’m looking to collaborate on **Open Innovations & AI projects**.
-- 🤔 I’m looking for help with **Object Tracking and Detecting**.
+- 🔭 I’m currently working on a **Healthcare based Startup Idea**.
+- 🌱 I’m currently learning **Flutter**.
+- 👯 I’m looking to collaborate on **IOT, CV & RAG AIs, Web & App devs**.
+- 🤔 I’m looking for help with **Simulating 3D models.**.
 - 📫 How to reach me: **rohan1706pandey@gmail.com**
 
 ##
