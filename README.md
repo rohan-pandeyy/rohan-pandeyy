@@ -5,14 +5,15 @@
 <img align = "right" alt = coding height = "330px" width = "360px" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
 - 🔭 I’m currently working on a **Healthcare based Startup Idea**.
-- 🌱 I’m currently learning **Flutter**.
+- 🌱 I’m currently learning **Node & NextJS**.
 - 👯 I’m looking to collaborate on **IOT, CV & RAG AIs, Web & App devs**.
-- 🤔 I’m looking for help with **Simulating 3D models.**.
+- 🤔 I’m looking for help with **Optimizing a CNN.**.
 - 📫 How to reach me: **rohan1706pandey@gmail.com**
 
 ##
 ### Highlights
 
+> - Worked with folks @[KeenHeads](https://keenheads.com/)
 > - Worked with folks @TheDesignNetwork
 > - I love to learn in public. [Check it out](https://twitter.com/aboongalakaka)
 
