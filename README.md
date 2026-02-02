@@ -2,6 +2,18 @@
 <h3 align="center">An Enthusiastic Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohan-pandeyy&label=Profile%20views&color=d4b3df&style=flat-square" alt="rohan-pandeyy" /> </p>
+
+![](./public/header.png)
+
+### Connect with me
+<a href="https://www.linkedin.com/in/rohanpandeyy/"><picture><img width="32" src="./public/social-media/linkedin.svg" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
+<a href="http://instagram.com/wtf_ronn/"><picture><img width="32" src="./public/social-media/instagram.svg" alt="Instagram"></picture></a>&nbsp;&nbsp;
+<a href="mailto:rohan1706pandey@gmail.com"><picture><img width="32" src="./public/social-media/gmail.svg" alt="Gmail"></picture></a>&nbsp;&nbsp;
+<a href="https://rohan-pandeyy.github.io"><picture><img width="32" src="./public/social-media/rohan-pandeyy.github.io.svg" alt="Gmail"></picture></a>&nbsp;&nbsp;
+<a href="https://github.com/rohan-pandeyy/"><picture><source media="(prefers-color-scheme: dark)" srcset="./public/social-media/github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/social-media/github-light.svg"><img width="32" src="./public/social-media/github-light.svg" alt="GitHub"></picture></a>&nbsp;&nbsp;
+<a href="https://x.com/rohan_pandeyy/"><picture><source media="(prefers-color-scheme: dark)" srcset="./public/social-media/x-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/social-media/x-light.svg"><img width="32" src="./public/social-media/x-light.svg" alt="X"></picture></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/rohan-pandeyy/"><picture><source media="(prefers-color-scheme: dark)" srcset="./public/social-media/leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./public/social-media/leetcode-light.svg"><img width="32" src="./public/social-media/leetcode-light.svg" alt="LeetCode"></picture></a>&nbsp;&nbsp;
+
 <img align = "right" alt = coding height = "330px" width = "360px" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
 <!--- 🌱 I’m currently learning ****.-->
