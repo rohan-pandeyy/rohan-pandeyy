@@ -31,3 +31,5 @@ I craft digital experiences with NextJS and bring them to life with Tailwind & N
 
 <a href="https://github.com/rohan-pandeyy/github-readme-stats"><img alt="Rohan's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan-pandeyy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="450" /></a>
   <a href="https://github.com/rohan-pandeyy/github-readme-stats"><img alt="Rohan's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan-pandeyy&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width ="350" /></a>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan-pandeyy/rohan-pandeyy/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan-pandeyy/rohan-pandeyy/output/github-snake.svg"><img src="https://raw.githubusercontent.com/rohan-pandeyy/rohan-pandeyy/output/github-snake.svg" alt="snake animation" width="100%"></picture></p>
